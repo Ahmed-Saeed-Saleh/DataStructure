@@ -1,8 +1,7 @@
 /*
  ============================================================================
  Name        : linkedlist.c
- Author      : 
- Version     :
+ Author      : Ahmed Saeed
  Copyright   : Your copyright notice
  Description : linkedlist in C, Ansi-style
  ============================================================================
