@@ -1,8 +1,7 @@
 /*
  ============================================================================
  Name        : queue.c
- Author      : 
- Version     :
+ Author      : Ahmed Saeed
  Copyright   : Your copyright notice
  Description : queue in C, Ansi-style
  ============================================================================
