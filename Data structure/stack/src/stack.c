@@ -1,8 +1,7 @@
 /*
  ============================================================================
  Name        : STACK.c
- Author      : 
- Version     :
+ Author      : Ahmed Saeed
  Copyright   : Your copyright notice
  Description : STACK in C, Ansi-style
  ============================================================================
